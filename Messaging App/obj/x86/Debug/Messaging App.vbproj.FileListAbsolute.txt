@@ -1,0 +1,16 @@
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging_App.frmLogin.resources
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging_App.frmMain.resources
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging_App.frmSignup.resources
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging_App.Resources.resources
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging App.vbproj.GenerateResource.Cache
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\bin\Debug\Messaging App.exe.config
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\bin\Debug\Messaging App.exe
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\bin\Debug\Messaging App.pdb
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\bin\Debug\Messaging App.xml
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\bin\Debug\MySql.Data.dll
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging App.exe
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging App.xml
+c:\users\romar cablao\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging App.pdb
+C:\Users\ROMAR CABLAO\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging App.vbprojResolveAssemblyReference.cache
+C:\Users\ROMAR CABLAO\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging_App.frmLandingPage.resources
+C:\Users\ROMAR CABLAO\documents\visual studio 2010\Projects\Messaging App\Messaging App\obj\x86\Debug\Messaging_App.diagUserChoices.resources
